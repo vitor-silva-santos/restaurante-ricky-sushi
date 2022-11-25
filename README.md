@@ -12,4 +12,4 @@
 <img src="https://github.com/vitor-silva-santos/restaurante-ricky-sushi/blob/master/imagens/img-web/desktop-3.png?raw=true" width="700px">
 <br>
 
-<h3>Site no ar: <a href="https://vitor-silva-santos.github.io/restaurante-ricky-sushi/">CLIQUE AQUI</a></h3>
+<h3>Site no ar: <a href="https://vitor-silva-santos.github.io/restaurante-ricky-sushi/" target="_blank">CLIQUE AQUI</a></h3>
